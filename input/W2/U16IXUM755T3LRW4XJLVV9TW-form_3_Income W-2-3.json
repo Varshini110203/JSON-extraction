@@ -1,0 +1,2707 @@
+{
+    "Summary": [
+        {
+            "SkillName": "Test Logic",
+            "Labels": [
+                {
+                    "LabelName": "Other Escrow",
+                    "LabelOrder": 1,
+                    "Values": [
+                        {
+                            "Value": " ",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/c2c05664675dbf8a0d8863bb49335895-d0dfd2606f616807a03f2d1436e1cd65-c0600bd056bc4a1d902bbfe9dac7a023-7cc16b3adc7065a7c55a910c7045db09",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ],
+                    "ChildLabels": [
+                        {
+                            "LabelName": "Other Escrow Logic",
+                            "LabelOrder": 1,
+                            "Values": [
+                                {
+                                    "Value": " ",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/c2c05664675dbf8a0d8863bb49335895-d0dfd2606f616807a03f2d1436e1cd65-c0600bd056bc4a1d902bbfe9dac7a023-3737dc8fd1244bc4ed88770c59aba09e-7cc16b3adc7065a7c55a910c7045db09",
+                                    "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                                    "PageNumber": "1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SkillName": "Meta Taxonomy",
+            "Labels": [
+                {
+                    "LabelName": "Loan Number",
+                    "LabelOrder": 1,
+                    "Values": [
+                        {
+                            "Value": "U16IXUM755T3LRW4XJLVV9TW_DCA",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Document Ingestion Status",
+                    "LabelOrder": 2,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Title",
+                    "LabelOrder": 3,
+                    "Values": [
+                        {
+                            "Value": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SkillName": "IC - W2",
+            "Labels": [
+                {
+                    "LabelName": "Year",
+                    "LabelOrder": 0,
+                    "Values": [
+                        {
+                            "Value": "2024",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee Social Security Number",
+                    "LabelOrder": 1,
+                    "Values": [
+                        {
+                            "Value": "1358",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer ID No. (EIN",
+                    "LabelOrder": 2,
+                    "Values": [
+                        {
+                            "Value": "01510345",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Wages Tips Other Comp",
+                    "LabelOrder": 3,
+                    "Values": [
+                        {
+                            "Value": "138,286.17",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Federal Income Tax Withheld",
+                    "LabelOrder": 4,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Social Security Wages",
+                    "LabelOrder": 5,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Social Security Tax Withheld",
+                    "LabelOrder": 6,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Medicare Wages And Tips",
+                    "LabelOrder": 7,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Medicare Tax Withheld",
+                    "LabelOrder": 8,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer Name",
+                    "LabelOrder": 9,
+                    "Values": [
+                        {
+                            "Value": "CHC PAYROLL AGENT, INC",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer Address 1",
+                    "LabelOrder": 10,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer Address 2",
+                    "LabelOrder": 11,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer Address City",
+                    "LabelOrder": 12,
+                    "Values": [
+                        {
+                            "Value": "Thornton",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer Address State",
+                    "LabelOrder": 13,
+                    "Values": [
+                        {
+                            "Value": "CO",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer Address Zip Code",
+                    "LabelOrder": 14,
+                    "Values": [
+                        {
+                            "Value": "80241-1358",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee Name",
+                    "LabelOrder": 15,
+                    "Values": [
+                        {
+                            "Value": "Emily Farineau",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee Address 1",
+                    "LabelOrder": 16,
+                    "Values": [
+                        {
+                            "Value": "13556 Detroit St",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee Address 2",
+                    "LabelOrder": 17,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee Address City",
+                    "LabelOrder": 18,
+                    "Values": [
+                        {
+                            "Value": "Thornton",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee Address State",
+                    "LabelOrder": 19,
+                    "Values": [
+                        {
+                            "Value": "CO",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee Address Zip Code",
+                    "LabelOrder": 20,
+                    "Values": [
+                        {
+                            "Value": "80241-1358",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Social Security Tips",
+                    "LabelOrder": 21,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Allocated Tips",
+                    "LabelOrder": 22,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Dependent Care Benefits",
+                    "LabelOrder": 23,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Nonqualified Plans",
+                    "LabelOrder": 24,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Description 1",
+                    "LabelOrder": 25,
+                    "Values": [
+                        {
+                            "Value": "DD",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Amount 1",
+                    "LabelOrder": 26,
+                    "Values": [
+                        {
+                            "Value": "8,409.36",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Description 2",
+                    "LabelOrder": 27,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Amount 2",
+                    "LabelOrder": 28,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Description 3",
+                    "LabelOrder": 29,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Amount 3",
+                    "LabelOrder": 30,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Description 4",
+                    "LabelOrder": 31,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Amount 4",
+                    "LabelOrder": 32,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Statutory Employee",
+                    "LabelOrder": 33,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Retirement Plan",
+                    "LabelOrder": 34,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Third-Party Sick Pay",
+                    "LabelOrder": 35,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "State Primary",
+                    "LabelOrder": 36,
+                    "Values": [
+                        {
+                            "Value": "CO",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "State Secondary",
+                    "LabelOrder": 37,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer state ID Number Primary",
+                    "LabelOrder": 38,
+                    "Values": [
+                        {
+                            "Value": "01510345",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer state ID Number Secondary",
+                    "LabelOrder": 39,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "State Wages Tips Primary",
+                    "LabelOrder": 40,
+                    "Values": [
+                        {
+                            "Value": "138,286.17",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "State Wages Tips Secondary",
+                    "LabelOrder": 41,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "State Income Tax Primary",
+                    "LabelOrder": 42,
+                    "Values": [
+                        {
+                            "Value": "5,861.00",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "State Income Tax Secondary",
+                    "LabelOrder": 43,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Local Wages Tips Primary",
+                    "LabelOrder": 44,
+                    "Values": [
+                        {
+                            "Value": "145,369.85",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Local Wages Tips Secondary",
+                    "LabelOrder": 45,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Local Income Tax Primary",
+                    "LabelOrder": 46,
+                    "Values": [
+                        {
+                            "Value": "69.00",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Local Income Tax Secondary",
+                    "LabelOrder": 47,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Locality Name Primary",
+                    "LabelOrder": 48,
+                    "Values": [
+                        {
+                            "Value": "DENVER",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Locality Name Secondary",
+                    "LabelOrder": 49,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Other Description",
+                    "LabelOrder": 50,
+                    "Values": [
+                        {
+                            "Value": "FAMLI",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Other Amount",
+                    "LabelOrder": 51,
+                    "Values": [
+                        {
+                            "Value": "647.93",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SkillName": "77 Labels",
+            "Labels": [
+                {
+                    "LabelName": "Uniform Residential Loan App",
+                    "LabelOrder": 0,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Uniform Transmittal Summary - 1008 Final",
+                    "LabelOrder": 1,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "ACH",
+                    "LabelOrder": 2,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Desktop Appraisal Review",
+                    "LabelOrder": 3,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Appraisal Update and or completion report",
+                    "LabelOrder": 4,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Appraisal - PIW",
+                    "LabelOrder": 5,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Freddie Mac UCDP-SSR Report",
+                    "LabelOrder": 6,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Fannie Mae UCDP-SSR Report",
+                    "LabelOrder": 7,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Bank Statements",
+                    "LabelOrder": 8,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Gift Letter",
+                    "LabelOrder": 9,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Bank Statement - Asset: Wire",
+                    "LabelOrder": 10,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "AUS Findings",
+                    "LabelOrder": 11,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Closing Disclosure",
+                    "LabelOrder": 12,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Acknowledgement of Receipt of Closing Disclosure",
+                    "LabelOrder": 13,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Seller Closing Disclosure",
+                    "LabelOrder": 14,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Closing Instructions",
+                    "LabelOrder": 15,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Closing Protection Letter",
+                    "LabelOrder": 16,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Changed Circumstance",
+                    "LabelOrder": 17,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Compliance Report",
+                    "LabelOrder": 18,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Credit: Report",
+                    "LabelOrder": 19,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Credit Report - Supplement",
+                    "LabelOrder": 20,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Affiliated Business Arrangement Disclosure Statement Notice",
+                    "LabelOrder": 21,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Anti-Coercion Disclosure",
+                    "LabelOrder": 22,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Anti-Steering Disclosure",
+                    "LabelOrder": 23,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Appraisal Waiver Disclosure",
+                    "LabelOrder": 24,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Attorney Preference Disclosure",
+                    "LabelOrder": 25,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Borrowers Certification and Authorization Letter",
+                    "LabelOrder": 26,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Business Purpose Disclosure",
+                    "LabelOrder": 27,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "CHARM Booklet",
+                    "LabelOrder": 28,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "E-Consent",
+                    "LabelOrder": 29,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Escrow Waiver",
+                    "LabelOrder": 30,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Home Loan Toolkit",
+                    "LabelOrder": 31,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Initial Escrow Account Disclosure Statement",
+                    "LabelOrder": 32,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Intent to Proceed",
+                    "LabelOrder": 33,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Credit Score Disclosure Notice to the Home Loan Applicant",
+                    "LabelOrder": 34,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Occupancy Affidavit",
+                    "LabelOrder": 35,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Providers of Service",
+                    "LabelOrder": 36,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Tax Payer Consent",
+                    "LabelOrder": 37,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Tangible Net Benefit",
+                    "LabelOrder": 38,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Disclosure Tracking",
+                    "LabelOrder": 39,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Articles - Incorporation",
+                    "LabelOrder": 40,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Articles - Organization",
+                    "LabelOrder": 41,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Guaranty",
+                    "LabelOrder": 42,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Operating Agreement",
+                    "LabelOrder": 43,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Flood Certification",
+                    "LabelOrder": 44,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Fraud Report 1",
+                    "LabelOrder": 45,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "ID Single - ID: Passport",
+                    "LabelOrder": 46,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "ID Single - ID: SSN Card",
+                    "LabelOrder": 47,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "1065",
+                    "LabelOrder": 48,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "1120S",
+                    "LabelOrder": 49,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "4506T",
+                    "LabelOrder": 50,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Income Calculator",
+                    "LabelOrder": 51,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "P&L",
+                    "LabelOrder": 52,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Paystubs",
+                    "LabelOrder": 53,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Tax Return Transcript Single",
+                    "LabelOrder": 54,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Verbal Verification of Employment (VVOE)",
+                    "LabelOrder": 55,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "W-2",
+                    "LabelOrder": 56,
+                    "Values": [
+                        {
+                            "Value": "Page - 1",
+                            "ConfidenceScore": 99.99,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/c2c05664675dbf8a0d8863bb49335895-d0dfd2606f616807a03f2d1436e1cd65_1",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Appraisal Invoice",
+                    "LabelOrder": 57,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Loan Estimate",
+                    "LabelOrder": 58,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Loan Estimate - LE Acknowledgement",
+                    "LabelOrder": 59,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Mortgage",
+                    "LabelOrder": 60,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Rider - Other",
+                    "LabelOrder": 61,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Note",
+                    "LabelOrder": 62,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Contract of Sale",
+                    "LabelOrder": 63,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Contract of Sale Addendum",
+                    "LabelOrder": 64,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Deed - Quit Claim",
+                    "LabelOrder": 65,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Lock Confirmation",
+                    "LabelOrder": 66,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Mortgage Statement",
+                    "LabelOrder": 67,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Tax Information Sheet",
+                    "LabelOrder": 68,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Notice of Right to Rescind",
+                    "LabelOrder": 69,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "HUD 1 Settlement Statement",
+                    "LabelOrder": 70,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Survey",
+                    "LabelOrder": 71,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Title Insurance - Preliminary Report",
+                    "LabelOrder": 72,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Deed - Warranty",
+                    "LabelOrder": 73,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Desktop Appraisal Review",
+                    "LabelOrder": 74,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Balance Sheet",
+                    "LabelOrder": 75,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "CPA Letter",
+                    "LabelOrder": 76,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Form 4562",
+                    "LabelOrder": 77,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Form 4797",
+                    "LabelOrder": 78,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "LLC Corporation Documents",
+                    "LabelOrder": 79,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Lease Agreement",
+                    "LabelOrder": 80,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "2106",
+                    "LabelOrder": 81,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Disability Award Letter",
+                    "LabelOrder": 82,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Pension Award Letter",
+                    "LabelOrder": 83,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Divorce Decree",
+                    "LabelOrder": 84,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Court Order",
+                    "LabelOrder": 85,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "VA - Award Letter",
+                    "LabelOrder": 86,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Verification of VA Benefits",
+                    "LabelOrder": 87,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Social Security Benefits Letter",
+                    "LabelOrder": 88,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Letter from Borrower",
+                    "LabelOrder": 89,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SkillName": "IC -W2 C",
+            "Labels": [
+                {
+                    "LabelName": "Employer Name",
+                    "LabelOrder": 0,
+                    "Values": [
+                        {
+                            "Value": "Emily Farineau",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer Address 1",
+                    "LabelOrder": 1,
+                    "Values": [
+                        {
+                            "Value": "13556 Detroit St",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer Address 2",
+                    "LabelOrder": 2,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer Address City",
+                    "LabelOrder": 3,
+                    "Values": [
+                        {
+                            "Value": "Thornton",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer Address State",
+                    "LabelOrder": 4,
+                    "Values": [
+                        {
+                            "Value": "CO",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer Address Zip Code",
+                    "LabelOrder": 5,
+                    "Values": [
+                        {
+                            "Value": "80241-1358",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer identification number (EIN)",
+                    "LabelOrder": 6,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Tax year/Form corrected",
+                    "LabelOrder": 7,
+                    "Values": [
+                        {
+                            "Value": "2024",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee's correct SSN",
+                    "LabelOrder": 8,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Corrected SSN and/or name",
+                    "LabelOrder": 9,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee's previously reported SSN",
+                    "LabelOrder": 10,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee's previously reported name",
+                    "LabelOrder": 11,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee's first name and initial",
+                    "LabelOrder": 12,
+                    "Values": [
+                        {
+                            "Value": "Emily",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee's Last Name",
+                    "LabelOrder": 13,
+                    "Values": [
+                        {
+                            "Value": "Farineau",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee's Suff. ",
+                    "LabelOrder": 14,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee Address 1",
+                    "LabelOrder": 15,
+                    "Values": [
+                        {
+                            "Value": "13556 Detroit St",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee Address 2",
+                    "LabelOrder": 16,
+                    "Values": [
+                        {
+                            "Value": "Thornton CO 80241-1358",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee Address City",
+                    "LabelOrder": 17,
+                    "Values": [
+                        {
+                            "Value": "Thornton",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee Address State",
+                    "LabelOrder": 18,
+                    "Values": [
+                        {
+                            "Value": "CO",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employee Address Zip Code",
+                    "LabelOrder": 19,
+                    "Values": [
+                        {
+                            "Value": "80241-1358",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Wages Tips Other Comp",
+                    "LabelOrder": 20,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Federal Income Tax Withheld",
+                    "LabelOrder": 21,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Social Security Wages",
+                    "LabelOrder": 22,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Social Security Tax Withheld",
+                    "LabelOrder": 23,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Medicare Wages And Tips",
+                    "LabelOrder": 24,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Medicare Tax Withheld",
+                    "LabelOrder": 25,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Social Security Tips",
+                    "LabelOrder": 26,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Allocated Tips",
+                    "LabelOrder": 27,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "For Future Use",
+                    "LabelOrder": 28,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Dependent Care Benefits",
+                    "LabelOrder": 29,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Nonqualified Plans",
+                    "LabelOrder": 30,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Description 1",
+                    "LabelOrder": 31,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Amount 1",
+                    "LabelOrder": 32,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Description 2",
+                    "LabelOrder": 33,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Amount 2",
+                    "LabelOrder": 34,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Description 3",
+                    "LabelOrder": 35,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Amount 3",
+                    "LabelOrder": 36,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Description 4",
+                    "LabelOrder": 37,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Code Amount 4",
+                    "LabelOrder": 38,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Statutory Employee",
+                    "LabelOrder": 39,
+                    "Values": [
+                        {
+                            "Value": "Unchecked",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Retirement Plan",
+                    "LabelOrder": 40,
+                    "Values": [
+                        {
+                            "Value": "Unchecked",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Third-Party Sick Pay",
+                    "LabelOrder": 41,
+                    "Values": [
+                        {
+                            "Value": "Unchecked",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Other Description",
+                    "LabelOrder": 42,
+                    "Values": [
+                        {
+                            "Value": "FAMLI",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Other Amount",
+                    "LabelOrder": 43,
+                    "Values": [
+                        {
+                            "Value": "647.93",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/cc265bc830134df4801379c1f440b2c6",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "State Primary",
+                    "LabelOrder": 44,
+                    "Values": [
+                        {
+                            "Value": "CO,CO",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "State Secondary",
+                    "LabelOrder": 45,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer state ID Number Primary",
+                    "LabelOrder": 46,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Employer state ID Number Secondary",
+                    "LabelOrder": 47,
+                    "Values": [
+                        {
+                            "Value": "01510345,01510345",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "State Wages Tips Primary",
+                    "LabelOrder": 48,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "State Wages Tips Secondary",
+                    "LabelOrder": 49,
+                    "Values": [
+                        {
+                            "Value": "138,286.17,138,286.17",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "State Income Tax Primary",
+                    "LabelOrder": 50,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "State Income Tax Secondary",
+                    "LabelOrder": 51,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Local Wages Tips Primary",
+                    "LabelOrder": 52,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Local Wages Tips Secondary",
+                    "LabelOrder": 53,
+                    "Values": [
+                        {
+                            "Value": "145,369.85,145,369.85",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Local Income Tax Primary",
+                    "LabelOrder": 54,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Local Income Tax Secondary",
+                    "LabelOrder": 55,
+                    "Values": [
+                        {
+                            "Value": "69.00,69.00",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Locality Name Primary",
+                    "LabelOrder": 56,
+                    "Values": [
+                        {
+                            "Value": "N/A",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Locality Name Secondary",
+                    "LabelOrder": 57,
+                    "Values": [
+                        {
+                            "Value": "DENVER,DENVER",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/d0dfd2606f616807a03f2d1436e1cd65/1/02e66bad09b445a2a227354e0c987cf3",
+                            "DocTitle": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+                            "PageNumber": "1"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Title": "3-Income- W2 U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
+    "Url": "https://cadevbot.blob.core.windows.net/filedrive/0572095a047507b2058e652761513e2a",
+    "StageName": "Ingestion InProgress",
+    "GeneratedOn": "2025-04-30T12:39:36.6300648Z",
+    "ScreenshotUrl": [],
+    "Meta":
+    { 
+        "Type":"Income W-2", 
+        "FileName":"U16IXUM755T3LRW4XJLVV9TW-form_3_Income W-2-3",
+        "ImageId":"U16IXUM755T3LRW4XJLVV9TW"
+    }
+}

@@ -1,0 +1,134 @@
+{
+    "finalisation": {
+        "Paystubs": [
+            {
+                "document_type": "paystub",
+                "filename": "U16IXUM755T3LRW4XJLVV9TW-form_1_Paystubs-1-Copy.json",
+                "docId": "",
+                "employee_name": "Tyler Heather",
+                "employer_name": "Peloton Enterprises",
+                "pay_period_end_date": "01/31/2025",
+                "pay_period_start_date": "01/01/2025",
+                "year_to_date_earnings": "9583.34",
+                "status": "original"
+            },
+            {
+                "document_type": "paystub",
+                "filename": "U16IXUM755T3LRW4XJLVV9TW-form_1_Paystubs-1.json",
+                "docId": "",
+                "employee_name": "Tyler Heather",
+                "employer_name": "N/A",
+                "pay_period_end_date": "01/31/2025",
+                "pay_period_start_date": "01/01/2025",
+                "year_to_date_earnings": "9583.34",
+                "status": "original"
+            },
+            {
+                "document_type": "paystub",
+                "filename": "U16IXUM755T3LRW4XJLVV9TW-form_2_Paystubs-2- Copy.json",
+                "docId": "",
+                "employee_name": "Emily Heather",
+                "employer_name": "Peak Internal Medicine",
+                "pay_period_end_date": "02/16/2025",
+                "pay_period_start_date": "02/03/2025",
+                "year_to_date_earnings": "6720.00",
+                "status": "original"
+            },
+            {
+                "document_type": "paystub",
+                "filename": "U16IXUM755T3LRW4XJLVV9TW-form_2_Paystubs-2.json",
+                "docId": "",
+                "employee_name": "Emily Heather",
+                "employer_name": "Peak Internal Medicine",
+                "pay_period_end_date": "02/16/2025",
+                "pay_period_start_date": "02/03/2025",
+                "year_to_date_earnings": "6720.00",
+                "status": "duplicate"
+            },
+            {
+                "document_type": "paystub",
+                "filename": "U16IXUM755T3LRW4XJLVV9TW-form_3_Paystubs-3.json",
+                "docId": "",
+                "employee_name": "Emily Heather",
+                "employer_name": "Peak Internal Medicine",
+                "pay_period_end_date": "02/02/2025",
+                "pay_period_start_date": "01/20/2025",
+                "year_to_date_earnings": "2240.00",
+                "status": "original"
+            },
+            {
+                "document_type": "paystub",
+                "filename": "U16IXUM755T3LRW4XJLVV9TW-form_4_Paystubs-4.json",
+                "docId": "",
+                "employee_name": "EMILY FARINEAU",
+                "employer_name": "HEALTHONE OF DENVER, INC",
+                "pay_period_end_date": "12/21/2024",
+                "pay_period_start_date": "12/08/2024",
+                "year_to_date_earnings": "116,239.43",
+                "status": "original"
+            },
+            {
+                "document_type": "paystub",
+                "filename": "U16IXUM755T3LRW4XJLVV9TW-form_5_Paystubs-5.json",
+                "docId": "",
+                "employee_name": "EMILY FARINEAU",
+                "employer_name": "HEALTHONE OF DENVER, INC",
+                "pay_period_end_date": "12/23/2023",
+                "pay_period_start_date": "12/10/2023",
+                "year_to_date_earnings": "N/A",
+                "status": "original"
+            }
+        ],
+        "W2": [
+            {
+                "document_type": "w2",
+                "filename": "U16IXUM755T3LRW4XJLVV9TW-form_1_Income W-2-1.json",
+                "docId": "",
+                "employee_name": "TYLER HEATHER",
+                "employer_name": "PELOTON ENTERPRISES COMPUTER I",
+                "year": "2024",
+                "status": "original"
+            },
+            {
+                "document_type": "w2",
+                "filename": "U16IXUM755T3LRW4XJLVV9TW-form_2_Income W-2-2.json",
+                "docId": "",
+                "employee_name": "Emily Farineau",
+                "employer_name": "CHC PAYROLL AGENT, INC",
+                "year": "2024",
+                "status": "original"
+            },
+            {
+                "document_type": "w2",
+                "filename": "U16IXUM755T3LRW4XJLVV9TW-form_3_Income W-2-3.json",
+                "docId": "",
+                "employee_name": "Emily Farineau",
+                "employer_name": "CHC PAYROLL AGENT, INC",
+                "year": "2024",
+                "status": "duplicate"
+            }
+        ],
+        "1120": [
+            {
+                "document_type": "1120",
+                "filename": "U16IXUM755T3LRW4XJLVV9TW-form_1_1120-1.json",
+                "docId": "",
+                "name": "Garcia Event Catering",
+                "year": "2023",
+                "beginning_tax_year": "9/18/2023",
+                "ending_tax_year": "12/31/2023",
+                "status": "original"
+            },
+            {
+                "document_type": "1120",
+                "filename": "U16IXUM755T3LRW4XJLVV9TW-form_1_1120-1.json",
+                "docId": "",
+                "name": "Garcia Event Catering",
+                "year": "2023",
+                "beginning_tax_year": "9/18/2023",
+                "ending_tax_year": "12/31/2023",
+                "status": "duplicate"
+            }
+        ]
+    }
+}

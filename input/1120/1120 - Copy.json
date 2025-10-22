@@ -1,0 +1,2763 @@
+{
+    "Summary": [
+        {
+            "SkillName": "2023 1120 Corporation1",
+            "Labels": [
+                {
+                    "LabelName": "Form 1120",
+                    "LabelOrder": 0,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null,
+                            "Status": 0
+                        }
+                    ],
+                    "ChildLabels": [
+                        {
+                            "LabelName": "1120 Year",
+                            "LabelOrder": 1,
+                            "Values": [
+                                {
+                                    "Value": "2023",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Beginning Date Of Tax Year",
+                            "LabelOrder": 2,
+                            "Values": [
+                                {
+                                    "Value": "9/18/2023",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Ending Date Of Tax Year",
+                            "LabelOrder": 3,
+                            "Values": [
+                                {
+                                    "Value": "12/31/2023",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 8
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Name",
+                            "LabelOrder": 4,
+                            "Values": [
+                                {
+                                    "Value": "Garcia Event Catering",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/2/73cc65ebe9c94fe6903b9b16cadc4d60",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "2",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Address 1",
+                            "LabelOrder": 5,
+                            "Values": [
+                                {
+                                    "Value": "1400 Callaghan Rd",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Address 2",
+                            "LabelOrder": 6,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Address City",
+                            "LabelOrder": 7,
+                            "Values": [
+                                {
+                                    "Value": "San Antonio",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Address State",
+                            "LabelOrder": 8,
+                            "Values": [
+                                {
+                                    "Value": "TX",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Address Zip Code",
+                            "LabelOrder": 9,
+                            "Values": [
+                                {
+                                    "Value": "78228",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Check If a Consolidated return\r\n(attach Form 851)",
+                            "LabelOrder": 10,
+                            "Values": [
+                                {
+                                    "Value": "Unchecked",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Check If Life/nonlife consolidated return",
+                            "LabelOrder": 11,
+                            "Values": [
+                                {
+                                    "Value": "Unchecked",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Check If Personal holding co.\r\n(attach Sch. PH)",
+                            "LabelOrder": 12,
+                            "Values": [
+                                {
+                                    "Value": "Unchecked",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Check If Personal service corp.\r\n(see instructions) .",
+                            "LabelOrder": 13,
+                            "Values": [
+                                {
+                                    "Value": "Unchecked",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Schedule M-3 attached",
+                            "LabelOrder": 14,
+                            "Values": [
+                                {
+                                    "Value": "Unchecked",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Employer Identification Number",
+                            "LabelOrder": 15,
+                            "Values": [
+                                {
+                                    "Value": "93-3448474",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/2/73cc65ebe9c94fe6903b9b16cadc4d60",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "2",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Date Incorporated",
+                            "LabelOrder": 16,
+                            "Values": [
+                                {
+                                    "Value": "9/18/2023",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Total Assets",
+                            "LabelOrder": 17,
+                            "Values": [
+                                {
+                                    "Value": "$ 179,072",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Check If: Initial return",
+                            "LabelOrder": 18,
+                            "Values": [
+                                {
+                                    "Value": "checked",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/4/6213d28f7e8b48aa87245ccdd5d53ea8",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "4",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Check If: Final return",
+                            "LabelOrder": 19,
+                            "Values": [
+                                {
+                                    "Value": "Unchecked",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Check if: Name change",
+                            "LabelOrder": 20,
+                            "Values": [
+                                {
+                                    "Value": "Unchecked",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Check If: Address change",
+                            "LabelOrder": 21,
+                            "Values": [
+                                {
+                                    "Value": "Unchecked",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Gross Receipts Or Sales",
+                            "LabelOrder": 22,
+                            "Values": [
+                                {
+                                    "Value": "281,235",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Returns And Allowances",
+                            "LabelOrder": 23,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Balance. Subtract Line 1B From Line 1A",
+                            "LabelOrder": 24,
+                            "Values": [
+                                {
+                                    "Value": "281,235",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Cost Of Goods Sold",
+                            "LabelOrder": 25,
+                            "Values": [
+                                {
+                                    "Value": "258,014",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Gross Profit. Subtract Line 2 From Line 1C",
+                            "LabelOrder": 26,
+                            "Values": [
+                                {
+                                    "Value": "23,221",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Dividends And Inclusions",
+                            "LabelOrder": 27,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Income Interest",
+                            "LabelOrder": 28,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Gross Rents",
+                            "LabelOrder": 29,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Gross Royalties",
+                            "LabelOrder": 30,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Capital Gain Net Income",
+                            "LabelOrder": 31,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Net Gain Or (Loss) From Form 4797 Part II Line 17",
+                            "LabelOrder": 32,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Other Income",
+                            "LabelOrder": 33,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Total Income. Add Lines 3 Through 10",
+                            "LabelOrder": 34,
+                            "Values": [
+                                {
+                                    "Value": "23,221",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Compensation Of Officers",
+                            "LabelOrder": 35,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Salaries And Wages",
+                            "LabelOrder": 36,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Repairs And Maintenance",
+                            "LabelOrder": 37,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Bad Debts",
+                            "LabelOrder": 38,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Rents",
+                            "LabelOrder": 39,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Taxes And Licenses",
+                            "LabelOrder": 40,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Deductions Interest",
+                            "LabelOrder": 41,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Deductions Charitable Contributions",
+                            "LabelOrder": 42,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Depreciation From Form 4562 Not Claimed On Form 1125 A Or Elsewhere On Return",
+                            "LabelOrder": 43,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Depletion",
+                            "LabelOrder": 44,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Advertising",
+                            "LabelOrder": 45,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Pension Profit Sharing Etc. Plans",
+                            "LabelOrder": 46,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Employee Benefit Programs",
+                            "LabelOrder": 47,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Energy Efficient Commercial Buildings Deduction",
+                            "LabelOrder": 48,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Other Deductions",
+                            "LabelOrder": 49,
+                            "Values": [
+                                {
+                                    "Value": "2,915",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Total Deductions. Add Lines 12 Through 26",
+                            "LabelOrder": 50,
+                            "Values": [
+                                {
+                                    "Value": "2,915",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Taxable Income Before Net Operating Loss Deduction And Special Deductions",
+                            "LabelOrder": 51,
+                            "Values": [
+                                {
+                                    "Value": "20,306",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Net Operating Loss Deduction",
+                            "LabelOrder": 52,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Special Deductions",
+                            "LabelOrder": 53,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Add Lines 29A And 29B Net Operating Loss Deduction and Special Deductions",
+                            "LabelOrder": 54,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/2/73cc65ebe9c94fe6903b9b16cadc4d60",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "2",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Taxable Income. Subtract Line 29C From Line 28",
+                            "LabelOrder": 55,
+                            "Values": [
+                                {
+                                    "Value": "20,306",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Total Tax",
+                            "LabelOrder": 56,
+                            "Values": [
+                                {
+                                    "Value": "4,264",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Total Payments And Credits",
+                            "LabelOrder": 57,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/2/73cc65ebe9c94fe6903b9b16cadc4d60",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "2",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Estimated Tax Penalty. See Instructions Checkbox",
+                            "LabelOrder": 58,
+                            "Values": [
+                                {
+                                    "Value": "Unchecked",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Estimated Tax Penalty. See Instructions Amount",
+                            "LabelOrder": 59,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Amount Owed. If Line 33 Is Smaller Than The Total Of Lines 31 And 34 Enter Amount",
+                            "LabelOrder": 60,
+                            "Values": [
+                                {
+                                    "Value": "4,264",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Overpayment. If Line 33 Is Larger Than The Total Of Lines 31 And 34 Enter Amount",
+                            "LabelOrder": 61,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/2/73cc65ebe9c94fe6903b9b16cadc4d60",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "2",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Enter Amount From Line 36 You Want Credited To 2024 Estimated Tax",
+                            "LabelOrder": 62,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Enter Amount From Line 36 You Want Refunded",
+                            "LabelOrder": 63,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Signature Of Officer",
+                            "LabelOrder": 64,
+                            "Values": [
+                                {
+                                    "Value": "Not Signed",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/0/c009c8c42e6e81a07351bd2b7641b1a9-ca9bb00eef7ba9e03566a5db5683d1a3-7670f160309e4cf8ba6685f3cf88f638-4540c0ff50c89d63acc79f660c3e7c11-32c841cf9f782ca602f274862a2cc88f",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "0",
+                                    "Status": 0
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Sign Here Date",
+                            "LabelOrder": 65,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Sign Here Title",
+                            "LabelOrder": 66,
+                            "Values": [
+                                {
+                                    "Value": "President",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "May The IRS Discuss This Return With The Preparer Shown Below? Yes",
+                            "LabelOrder": 67,
+                            "Values": [
+                                {
+                                    "Value": "checked",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/4/6213d28f7e8b48aa87245ccdd5d53ea8",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "4",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "May The IRS Discuss This Return With The Preparer Shown Below? No",
+                            "LabelOrder": 68,
+                            "Values": [
+                                {
+                                    "Value": "Unchecked",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Print/Type Preparer's Name",
+                            "LabelOrder": 69,
+                            "Values": [
+                                {
+                                    "Value": "Ismael N Martinez, CPA",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Preparer's Signature",
+                            "LabelOrder": 70,
+                            "Values": [
+                                {
+                                    "Value": "Not Signed",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/0/c009c8c42e6e81a07351bd2b7641b1a9-ca9bb00eef7ba9e03566a5db5683d1a3-7670f160309e4cf8ba6685f3cf88f638-20c4e8dbbc0c3a27b9d0d4ed4b231f5c-32c841cf9f782ca602f274862a2cc88f",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "0",
+                                    "Status": 0
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Paid Preparer Use Only Date",
+                            "LabelOrder": 71,
+                            "Values": [
+                                {
+                                    "Value": "7/5/2024",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Paid Preparer Use Only Check If Self-employed",
+                            "LabelOrder": 72,
+                            "Values": [
+                                {
+                                    "Value": "Unchecked",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Paid Preparer Use Only PTIN",
+                            "LabelOrder": 73,
+                            "Values": [
+                                {
+                                    "Value": "P01291327",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Paid Preparer Use Only Firm's Name",
+                            "LabelOrder": 74,
+                            "Values": [
+                                {
+                                    "Value": "Martinez, Rosario & Company, LLP",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Paid Preparer Use Only  Firm's EIN",
+                            "LabelOrder": 75,
+                            "Values": [
+                                {
+                                    "Value": "11-3682861",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Paid Preparer Use Only Firm's Address 1",
+                            "LabelOrder": 76,
+                            "Values": [
+                                {
+                                    "Value": "9311 San Pedro Avenue, Suite 1420",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Paid Preparer Use Only Firm's Address 2",
+                            "LabelOrder": 77,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Paid Preparer Use Only Firm's Address City",
+                            "LabelOrder": 78,
+                            "Values": [
+                                {
+                                    "Value": "San Antonio",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Paid Preparer Use Only Firm's Address State",
+                            "LabelOrder": 79,
+                            "Values": [
+                                {
+                                    "Value": "TX",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Paid Preparer Use Only Firm's Address Zip Code",
+                            "LabelOrder": 80,
+                            "Values": [
+                                {
+                                    "Value": "78216",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Paid Preparer Use Only Phone No.",
+                            "LabelOrder": 81,
+                            "Values": [
+                                {
+                                    "Value": "(210) 277-1898",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Schedule L",
+                    "LabelOrder": 82,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null,
+                            "Status": 0
+                        }
+                    ],
+                    "ChildLabels": [
+                        {
+                            "LabelName": "Schedule L Year",
+                            "LabelOrder": 83,
+                            "Values": [
+                                {
+                                    "Value": "2023",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Cash - Beginning of tax year (b)",
+                            "LabelOrder": 84,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Cash - End of tax year (d)",
+                            "LabelOrder": 85,
+                            "Values": [
+                                {
+                                    "Value": "108,289",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Trade Notes And Accounts Receivable - Beginning of tax year (a)",
+                            "LabelOrder": 86,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Trade Notes And Accounts Receivable - End of tax year (c)",
+                            "LabelOrder": 87,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Allowance For Bad Debts - Beginning of tax year (a)",
+                            "LabelOrder": 88,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Allowance For Bad Debts - Beginning of tax year (b)",
+                            "LabelOrder": 89,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Allowance For Bad Debts - End of tax year (c)",
+                            "LabelOrder": 90,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Allowance For Bad Debts - End of tax year (d)",
+                            "LabelOrder": 91,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Inventories - Beginning of tax year (b)",
+                            "LabelOrder": 92,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Inventories - End of tax year (d)",
+                            "LabelOrder": 93,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets U.S. Government Obligations - Beginning of tax year (b)",
+                            "LabelOrder": 94,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets U.S. Government Obligations - End of tax year (d)",
+                            "LabelOrder": 95,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Tax Exempt Securities - Beginning of tax year (b)",
+                            "LabelOrder": 96,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Tax Exempt Securities - End of tax year (d)",
+                            "LabelOrder": 97,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Other Current Assets - Beginning of tax year (b)",
+                            "LabelOrder": 98,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Other Current Assets - End of tax year (d)",
+                            "LabelOrder": 99,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Loans To Shareholders - Beginning of tax year (b)",
+                            "LabelOrder": 100,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Loans To Shareholders - End of tax year (d)",
+                            "LabelOrder": 101,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Mortgage And Real Estate Loans - Beginning of tax year (b)",
+                            "LabelOrder": 102,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Mortgage And Real Estate Loans - End of tax year (d)",
+                            "LabelOrder": 103,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Other Investments - Beginning of tax year (b)",
+                            "LabelOrder": 104,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Other Investments - End of tax year (d)",
+                            "LabelOrder": 105,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Buildings And Other Depreciable Assets - Beginning of tax year (a)",
+                            "LabelOrder": 106,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Buildings And Other Depreciable Assets - End of tax year (c)",
+                            "LabelOrder": 107,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Accumulated Depreciation - Beginning of tax year (a)",
+                            "LabelOrder": 108,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Accumulated Depreciation - Beginning of tax year (b)",
+                            "LabelOrder": 109,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Accumulated Depreciation - End of tax year (c)",
+                            "LabelOrder": 110,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Accumulated Depreciation - End of tax year (d)",
+                            "LabelOrder": 111,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Depletable Assets - Beginning of tax year (a)",
+                            "LabelOrder": 112,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Depletable Assets - End of tax year (c)",
+                            "LabelOrder": 113,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Accumulated Depletion - Beginning of tax year (a)",
+                            "LabelOrder": 114,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Accumulated Depletion - Beginning of tax year (b)",
+                            "LabelOrder": 115,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Accumulated Depletion - End of tax year (c)",
+                            "LabelOrder": 116,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Accumulated Depletion - End of tax year (d)",
+                            "LabelOrder": 117,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Land (Net Of Any Amortization) - Beginning of tax year (b)",
+                            "LabelOrder": 118,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Land (Net Of Any Amortization) - End of tax year (d)",
+                            "LabelOrder": 119,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Intangible Assets (Amortizable Only) - Beginning of tax year (a)",
+                            "LabelOrder": 120,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Intangible Assets (Amortizable Only) - Beginning of tax year (b)",
+                            "LabelOrder": 121,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Accumulated Amortization - Beginning of tax year (a)",
+                            "LabelOrder": 122,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Accumulated Amortization - Beginning of tax year (b)",
+                            "LabelOrder": 123,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Accumulated Amortization - End of tax year (c)",
+                            "LabelOrder": 124,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Less Accumulated Amortization - End of tax year (d)",
+                            "LabelOrder": 125,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Other Assets - Beginning of tax year (b)",
+                            "LabelOrder": 126,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Other Assets - End of tax year (d)",
+                            "LabelOrder": 127,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Total Assets - Beginning of tax year (b)",
+                            "LabelOrder": 128,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Assets Total Assets - End of tax year (d)",
+                            "LabelOrder": 129,
+                            "Values": [
+                                {
+                                    "Value": "179,072",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Accounts Payable - Beginning of tax year (b)",
+                            "LabelOrder": 130
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Accounts Payable - End of tax year (d)",
+                            "LabelOrder": 131,
+                            "Values": [
+                                {
+                                    "Value": "3,715",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/0/c009c8c42e6e81a07351bd2b7641b1a9-ca9bb00eef7ba9e03566a5db5683d1a3-7670f160309e4cf8ba6685f3cf88f638-3f0c2aefd4fefef34d59be62970aa993-fc4310d2c7673252896618607ee8724a",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "0",
+                                    "Status": 0
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Mortgages Notes Bonds Payable In Less Than 1 Year - Beginning of tax year (b)",
+                            "LabelOrder": 132,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Mortgages Notes Bonds Payable In Less Than 1 Year - End of tax year (d)",
+                            "LabelOrder": 133,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Other Current Liabilities - Beginning of tax year (b)",
+                            "LabelOrder": 134,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Other Current Liabilities - End of tax year (d)",
+                            "LabelOrder": 135,
+                            "Values": [
+                                {
+                                    "Value": "9,627",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/0/c009c8c42e6e81a07351bd2b7641b1a9-ca9bb00eef7ba9e03566a5db5683d1a3-7670f160309e4cf8ba6685f3cf88f638-586b27ec7503dc82212703aaa21fb9c8-fc4310d2c7673252896618607ee8724a",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "0",
+                                    "Status": 0
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Loans From Shareholders - Beginning of tax year (b)",
+                            "LabelOrder": 136
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Loans From Shareholders - End of tax year (d)",
+                            "LabelOrder": 137,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Mortgages Notes Bonds Payable In 1 Year Or More - Beginning of tax year (b)",
+                            "LabelOrder": 138,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Mortgages Notes Bonds Payable In 1 Year Or More - End of tax year (d)",
+                            "LabelOrder": 139,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Other Liabilities - Beginning of tax year (b)",
+                            "LabelOrder": 140,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Other Liabilities - End of tax year (d)",
+                            "LabelOrder": 141,
+                            "Values": [
+                                {
+                                    "Value": "150,922",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Capital Stock A Preferred Stock - Beginning of tax year (a)",
+                            "LabelOrder": 142,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Capital Stock A Preferred Stock - Beginning of tax year (b)",
+                            "LabelOrder": 143,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Capital Stock B Common Stock - Beginning of tax year (a)",
+                            "LabelOrder": 144,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Capital Stock B Common Stock- Beginning of tax year (b)",
+                            "LabelOrder": 145,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Capital Stock B Common Stock - End of tax year (c)",
+                            "LabelOrder": 146,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Capital Stock B Common Stock - End of tax year (d)",
+                            "LabelOrder": 147,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Additional Paid In Capital - Beginning of tax year (b)",
+                            "LabelOrder": 148,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Additional Paid In Capital - End of tax year (d)",
+                            "LabelOrder": 149,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Retained Earnings Appropriated - Beginning of tax year (b)",
+                            "LabelOrder": 150,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Retained Earnings Appropriated - End of tax year (d)",
+                            "LabelOrder": 151,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Retained Earnings Unappropriated - Beginning of tax year (b)",
+                            "LabelOrder": 152,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Retained Earnings Unappropriated - End of tax year (d)",
+                            "LabelOrder": 153,
+                            "Values": [
+                                {
+                                    "Value": "14,808",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/0/c009c8c42e6e81a07351bd2b7641b1a9-ca9bb00eef7ba9e03566a5db5683d1a3-7670f160309e4cf8ba6685f3cf88f638-3615217ef41593ea659d0405c3bf0e47-fc4310d2c7673252896618607ee8724a",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "0",
+                                    "Status": 0
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Adjustments To Shareholders' Equity - Beginning of tax year (b)",
+                            "LabelOrder": 154,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Adjustments To Shareholders' Equity - End of tax year (d)",
+                            "LabelOrder": 155,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Less Cost Of Treasury Stock - Beginning of tax year (b)",
+                            "LabelOrder": 156,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Less Cost Of Treasury Stock - End of tax year (d)",
+                            "LabelOrder": 157,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Total Liabilities And Shareholders' Equity - Beginning of tax year (b)",
+                            "LabelOrder": 158,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Liabilities and Shareholders' Equity Total Liabilities And Shareholders' Equity - End of tax year (d)",
+                            "LabelOrder": 159,
+                            "Values": [
+                                {
+                                    "Value": "179,072",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Schedule M-1",
+                    "LabelOrder": 160,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null,
+                            "Status": 0
+                        }
+                    ],
+                    "ChildLabels": [
+                        {
+                            "LabelName": "M-1 Net Income (Loss) Per Books",
+                            "LabelOrder": 161,
+                            "Values": [
+                                {
+                                    "Value": "14,808",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Federal Income Tax Per Books",
+                            "LabelOrder": 162,
+                            "Values": [
+                                {
+                                    "Value": "4,264",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Excess Of Capital Losses Over Capital Gains",
+                            "LabelOrder": 163,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Income Subject To Tax Not Recorded On Books This Year Description",
+                            "LabelOrder": 164,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Income Subject To Tax Not Recorded On Books This Year Amount",
+                            "LabelOrder": 165,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Expenses Depreciation",
+                            "LabelOrder": 166,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Expenses Charitable Contributions",
+                            "LabelOrder": 167,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Travel And Entertainment Description",
+                            "LabelOrder": 168,
+                            "Values": [
+                                {
+                                    "Value": "Penalties",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 11
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Travel And Entertainment Amount",
+                            "LabelOrder": 169,
+                            "Values": [
+                                {
+                                    "Value": "1,234",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Add Lines 1 Through 5 Net Income(loss),Federal income tax per books, Excess of capital losses over capital gains, income subject to tax not recorded on books, and Expenses recorded on books this year not deducted",
+                            "LabelOrder": 170,
+                            "Values": [
+                                {
+                                    "Value": "20,306",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Income Recorded On Books This Year Not Included On This Return Description",
+                            "LabelOrder": 171,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Income Recorded On Books This Year Not Included On This Return Amount",
+                            "LabelOrder": 172,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Deductions Depreciation",
+                            "LabelOrder": 173,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Deductions Charitable Contributions Description",
+                            "LabelOrder": 174,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Deductions Charitable Contributions Amount",
+                            "LabelOrder": 175,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Add Lines 7 And 8 Income recorded on books not included on this return and deductions on this return not charged against book income this year",
+                            "LabelOrder": 176,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Income",
+                            "LabelOrder": 177,
+                            "Values": [
+                                {
+                                    "Value": "20,306",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Schedule M-2",
+                    "LabelOrder": 178,
+                    "Values": [
+                        {
+                            "Value": "14,808",
+                            "ConfidenceScore": 100.0,
+                            "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                            "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                            "PageNumber": "6",
+                            "Status": 1
+                        }
+                    ],
+                    "ChildLabels": [
+                        {
+                            "LabelName": "Balance At Beginning Of Year",
+                            "LabelOrder": 179
+                        },
+                        {
+                            "LabelName": "M-2 Net Income (Loss) Per Books",
+                            "LabelOrder": 180,
+                            "Values": [
+                                {
+                                    "Value": "14,808",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Other Increases (Itemize) Description",
+                            "LabelOrder": 181,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Other Increases (Itemize) Amount",
+                            "LabelOrder": 182,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Add Lines 1, 2 And 3 Balance at beginning of year, Net Income(loss) per books, Other Increases",
+                            "LabelOrder": 183,
+                            "Values": [
+                                {
+                                    "Value": "14,808",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Distributions Cash",
+                            "LabelOrder": 184,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Distributions Stock",
+                            "LabelOrder": 185,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Distributions Property",
+                            "LabelOrder": 186,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Other Decreases (Itemize) Description",
+                            "LabelOrder": 187,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Other Decreases (Itemize) Amount",
+                            "LabelOrder": 188,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Add Lines 5 And 6 Distributions and Other Decreases",
+                            "LabelOrder": 189,
+                            "Values": [
+                                {
+                                    "Value": "0",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/1/a97681cc5632442ba2b209359e9fe9c1",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "1",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Balance At End Of Year (Line 4 Less Line 7)",
+                            "LabelOrder": 190,
+                            "Values": [
+                                {
+                                    "Value": "14,808",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Other Deductions Statement attached to 1120",
+                    "LabelOrder": 191,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null,
+                            "Status": 0
+                        }
+                    ],
+                    "ChildLabels": [
+                        {
+                            "LabelName": "Statement Number",
+                            "LabelOrder": 192,
+                            "Values": [
+                                {
+                                    "Value": "N/A",
+                                    "ConfidenceScore": 100.0,
+                                    "Link": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/Extraction/2023 1120 CORPORATION/ca9bb00eef7ba9e03566a5db5683d1a3/6/bab3295e518741fc8d2554a9e2d4c925",
+                                    "DocTitle": "AH_8310400_2023 1120 V2.pdf",
+                                    "PageNumber": "6",
+                                    "Status": 1
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Form Number",
+                            "LabelOrder": 193
+                        },
+                        {
+                            "LabelName": "Description",
+                            "LabelOrder": 194
+                        },
+                        {
+                            "LabelName": "Amount",
+                            "LabelOrder": 195
+                        },
+                        {
+                            "LabelName": "Total Deductions",
+                            "LabelOrder": 196
+                        }
+                    ]
+                },
+                {
+                    "LabelName": "Other Deductions Statement",
+                    "LabelOrder": 192,
+                    "Values": [
+                        {
+                            "Value": "",
+                            "ConfidenceScore": 0.0,
+                            "Link": "",
+                            "DocTitle": "",
+                            "PageNumber": null,
+                            "Status": 0
+                        }
+                    ],
+                    "ChildLabels": [
+                        {
+                            "LabelName": "Description",
+                            "LabelOrder": 1,
+                            "Values": [
+                                {
+                                    "Value": "",
+                                    "ConfidenceScore": 0.0,
+                                    "Link": "",
+                                    "DocTitle": "",
+                                    "PageNumber": null,
+                                    "Status": 0
+                                }
+                            ]
+                        },
+                        {
+                            "LabelName": "Amount",
+                            "LabelOrder": 2,
+                            "Values": [
+                                {
+                                    "Value": "",
+                                    "ConfidenceScore": 0.0,
+                                    "Link": "",
+                                    "DocTitle": "",
+                                    "PageNumber": null,
+                                    "Status": 0
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Title": "AH_8310400_2023 1120 V2.pdf",
+    "Url": "https://ca-stagging-botminds.westus3.cloudapp.azure.com/a/webapi/api/browser/getPdfContent?file=c009c8c42e6e81a07351bd2b7641b1a9-a828e8630d279ca6e35e79fa4b9ab5b9",
+    "StageName": "Version 2",
+    "GeneratedOn": "2025-05-02T06:19:59.8367622Z",
+    "ProcessingTime": "00:01:35.9735202",
+    "ScreenshotUrl": [],
+    "Meta": 
+    { 
+        "Type":"1120", 
+        "FileName":"U16IXUM755T3LRW4XJLVV9TW-form_1_1120-1",
+        "ImageId":"U16IXUM755T3LRW4XJLVV9TW"
+    }
+}
