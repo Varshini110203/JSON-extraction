@@ -293,7 +293,7 @@
                     "LabelOrder": 16,
                     "Values": [
                         {
-                            "Value": "01/01/2025",
+                            "Value": "01-jan-2025",
                             "ConfidenceScore": 100.0,
                             "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/bb52a4c0e1ae028e280a8d292d0e033b/1/7c7f7b7ac8d54ff7ab088c8179e4fb33",
                             "DocTitle": "1-Income- Paystub U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
@@ -306,7 +306,7 @@
                     "LabelOrder": 17,
                     "Values": [
                         {
-                            "Value": "01/31/2025",
+                            "Value": "31-jan-2025",
                             "ConfidenceScore": 100.0,
                             "Link": "https://cadev.westus3.cloudapp.azure.com/Project3/Extraction Automation Project/bb52a4c0e1ae028e280a8d292d0e033b/1/7c7f7b7ac8d54ff7ab088c8179e4fb33",
                             "DocTitle": "1-Income- Paystub U16IXUM755T3LRW4XJLVV9TW_DCA.pdf",
