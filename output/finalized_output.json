@@ -55,17 +55,6 @@
                 "pay_period_start_date": "12/08/2024",
                 "year_to_date_earnings": "116,239.43",
                 "status": "original"
-            },
-            {
-                "document_type": "paystub",
-                "filename": "U16IXUM755T3LRW4XJLVV9TW-form_5_Paystubs-5.json",
-                "docId": "",
-                "employee_name": "EMILY FARINEAU",
-                "employer_name": "HEALTHONE OF DENVER, INC",
-                "pay_period_end_date": "12/23/2023",
-                "pay_period_start_date": "01/19/2023",
-                "year_to_date_earnings": "114,311.25",
-                "status": "original"
             }
         ],
         "W2": [

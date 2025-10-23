@@ -8,9 +8,9 @@ import dateutil
 
 def parse_date(date_str):
     """
-    Parse date string to MM/DD/YYYY format
+    Parse date string to MM/DD/YYYY format with enhanced validation
     Handles various formats including '08-august-2025'
-    Returns original string for invalid dates (will be caught as 'N/A' later)
+    Returns "N/A" for invalid dates
     """
     if not date_str or date_str == "N/A":
         return "N/A"
@@ -31,20 +31,59 @@ def parse_date(date_str):
         'december': 12, 'dec': 12
     }
     
+    def is_valid_date(month, day, year):
+        """Validate if the date components form a valid calendar date"""
+        try:
+            # Basic range validation
+            if not (1 <= month <= 12):
+                return False, f"Invalid month: {month}"
+            if not (1 <= day <= 31):
+                return False, f"Invalid day: {day}"
+            if not (1000 <= year <= 9999):
+                return False, f"Invalid year: {year}"
+            
+            # Specific month-day validation
+            months_with_30_days = [4, 6, 9, 11]
+            if month in months_with_30_days and day > 30:
+                return False, f"Month {month} has only 30 days"
+            
+            # February validation (including leap years)
+            if month == 2:
+                if (year % 4 == 0 and (year % 100 != 0 or year % 400 == 0)):  # Leap year
+                    if day > 29:
+                        return False, f"February {year} has only 29 days (leap year)"
+                else:  # Non-leap year
+                    if day > 28:
+                        return False, f"February {year} has only 28 days"
+            
+            # Final validation using datetime
+            datetime(year, month, day)
+            return True, None
+        except ValueError as e:
+            return False, str(e)
+    
     try:
         # Pattern 1: MM/DD/YYYY or MM-DD-YYYY
         match = re.match(r'^(\d{1,2})[/-](\d{1,2})[/-](\d{4})$', date_str)
         if match:
             month, day, year = int(match[1]), int(match[2]), int(match[3])
-            if 1 <= month <= 12 and 1 <= day <= 31 and 1000 <= year <= 9999:
+            is_valid, error_msg = is_valid_date(month, day, year)
+            if is_valid:
                 return f"{month:02d}/{day:02d}/{year}"
+            else:
+                print(f"Invalid date '{date_str}': {error_msg}")
+                return "N/A"  # Return "N/A" for invalid dates
         
         # Pattern 2: DD/MM/YYYY or DD-MM-YYYY
         match = re.match(r'^(\d{1,2})[/-](\d{1,2})[/-](\d{4})$', date_str)
         if match:
             day, month, year = int(match[1]), int(match[2]), int(match[3])
-            if 1 <= month <= 12 and 1 <= day <= 31 and 1000 <= year <= 9999:
+            is_valid, error_msg = is_valid_date(month, day, year)
+            if is_valid:
                 return f"{month:02d}/{day:02d}/{year}"
+            else:
+                print(f"Invalid date '{date_str}': {error_msg}")
+                return "N/A"
         
         # Pattern 3: DD-Month-YYYY (08-august-2025)
         match = re.match(r'^(\d{1,2})[-](\w+)[-](\d{4})$', date_str, re.IGNORECASE)
@@ -53,8 +92,12 @@ def parse_date(date_str):
             if month_str in month_names:
                 month = month_names[month_str]
                 day = int(day)
-                if 1 <= day <= 31:
+                is_valid, error_msg = is_valid_date(month, day, year)
+                if is_valid:
                     return f"{month:02d}/{day:02d}/{year}"
+                else:
+                    print(f"Invalid date '{date_str}': {error_msg}")
+                    return "N/A"
         
         # Pattern 4: Month DD, YYYY (August 08, 2025)
         match = re.match(r'^(\w+)\s+(\d{1,2}),?\s+(\d{4})$', date_str, re.IGNORECASE)
@@ -62,27 +105,42 @@ def parse_date(date_str):
             month_str, day, year = match[1].lower(), int(match[2]), int(match[3])
             if month_str in month_names:
                 month = month_names[month_str]
-                if 1 <= day <= 31:
+                is_valid, error_msg = is_valid_date(month, day, year)
+                if is_valid:
                     return f"{month:02d}/{day:02d}/{year}"
+                else:
+                    print(f"Invalid date '{date_str}': {error_msg}")
+                    return "N/A"
         
         # Pattern 5: YYYY-MM-DD (ISO format)
         match = re.match(r'^(\d{4})[-](\d{1,2})[-](\d{1,2})$', date_str)
         if match:
             year, month, day = int(match[1]), int(match[2]), int(match[3])
-            if 1 <= month <= 12 and 1 <= day <= 31:
+            is_valid, error_msg = is_valid_date(month, day, year)
+            if is_valid:
                 return f"{month:02d}/{day:02d}/{year}"
+            else:
+                print(f"Invalid date '{date_str}': {error_msg}")
+                return "N/A"
         
         # Try using dateutil if available (more flexible parsing)
         try:
             from dateutil.parser import parse
             date_obj = parse(date_str, fuzzy=False)
-            return date_obj.strftime("%m/%d/%Y")
+            is_valid, error_msg = is_valid_date(date_obj.month, date_obj.day, date_obj.year)
+            if is_valid:
+                return date_obj.strftime("%m/%d/%Y")
+            else:
+                print(f"Invalid date parsed by dateutil '{date_str}': {error_msg}")
+                return "N/A"
         except:
             pass
             
     except (ValueError, TypeError, IndexError) as e:
         print(f"Date parsing error for '{date_str}': {e}")
-    return date_str
+        return "N/A"
+    return "N/A"
+
 
 def extract_document_data(json_data, filename):
     try:
