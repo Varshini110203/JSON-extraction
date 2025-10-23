@@ -4,143 +4,27 @@ import glob
 from collections import defaultdict
 from datetime import datetime
 import re
-import dateutil
+import dateutil.parser
+from dateutil.parser import parse
 
 def parse_date(date_str):
     """
-    Parse date string to MM/DD/YYYY format with enhanced validation
-    Handles various formats including '08-august-2025'
+    Parse date string using dateutil parser
     Returns "N/A" for invalid dates
     """
     if not date_str or date_str == "N/A":
         return "N/A"
-    date_str = str(date_str).strip()
-    
-    month_names = {
-        'january': 1, 'jan': 1,
-        'february': 2, 'feb': 2,
-        'march': 3, 'mar': 3,
-        'april': 4, 'apr': 4,
-        'may': 5,
-        'june': 6, 'jun': 6,
-        'july': 7, 'jul': 7,
-        'august': 8, 'aug': 8,
-        'september': 9, 'sep': 9, 'sept': 9,
-        'october': 10, 'oct': 10,
-        'november': 11, 'nov': 11,
-        'december': 12, 'dec': 12
-    }
-    
-    def is_valid_date(month, day, year):
-        """Validate if the date components form a valid calendar date"""
-        try:
-            # Basic range validation
-            if not (1 <= month <= 12):
-                return False, f"Invalid month: {month}"
-            if not (1 <= day <= 31):
-                return False, f"Invalid day: {day}"
-            if not (1000 <= year <= 9999):
-                return False, f"Invalid year: {year}"
-            
-            # Specific month-day validation
-            months_with_30_days = [4, 6, 9, 11]
-            if month in months_with_30_days and day > 30:
-                return False, f"Month {month} has only 30 days"
-            
-            # February validation (including leap years)
-            if month == 2:
-                if (year % 4 == 0 and (year % 100 != 0 or year % 400 == 0)):  # Leap year
-                    if day > 29:
-                        return False, f"February {year} has only 29 days (leap year)"
-                else:  # Non-leap year
-                    if day > 28:
-                        return False, f"February {year} has only 28 days"
-            
-            # Final validation using datetime
-            datetime(year, month, day)
-            return True, None
-        except ValueError as e:
-            return False, str(e)
     
     try:
-        # Pattern 1: MM/DD/YYYY or MM-DD-YYYY
-        match = re.match(r'^(\d{1,2})[/-](\d{1,2})[/-](\d{4})$', date_str)
-        if match:
-            month, day, year = int(match[1]), int(match[2]), int(match[3])
-            is_valid, error_msg = is_valid_date(month, day, year)
-            if is_valid:
-                return f"{month:02d}/{day:02d}/{year}"
-            else:
-                print(f"Invalid date '{date_str}': {error_msg}")
-                return "N/A"  # Return "N/A" for invalid dates
-        
-        # Pattern 2: DD/MM/YYYY or DD-MM-YYYY
-        match = re.match(r'^(\d{1,2})[/-](\d{1,2})[/-](\d{4})$', date_str)
-        if match:
-            day, month, year = int(match[1]), int(match[2]), int(match[3])
-            is_valid, error_msg = is_valid_date(month, day, year)
-            if is_valid:
-                return f"{month:02d}/{day:02d}/{year}"
-            else:
-                print(f"Invalid date '{date_str}': {error_msg}")
-                return "N/A"
-        
-        # Pattern 3: DD-Month-YYYY (08-august-2025)
-        match = re.match(r'^(\d{1,2})[-](\w+)[-](\d{4})$', date_str, re.IGNORECASE)
-        if match:
-            day, month_str, year = match[1], match[2].lower(), int(match[3])
-            if month_str in month_names:
-                month = month_names[month_str]
-                day = int(day)
-                is_valid, error_msg = is_valid_date(month, day, year)
-                if is_valid:
-                    return f"{month:02d}/{day:02d}/{year}"
-                else:
-                    print(f"Invalid date '{date_str}': {error_msg}")
-                    return "N/A"
-        
-        # Pattern 4: Month DD, YYYY (August 08, 2025)
-        match = re.match(r'^(\w+)\s+(\d{1,2}),?\s+(\d{4})$', date_str, re.IGNORECASE)
-        if match:
-            month_str, day, year = match[1].lower(), int(match[2]), int(match[3])
-            if month_str in month_names:
-                month = month_names[month_str]
-                is_valid, error_msg = is_valid_date(month, day, year)
-                if is_valid:
-                    return f"{month:02d}/{day:02d}/{year}"
-                else:
-                    print(f"Invalid date '{date_str}': {error_msg}")
-                    return "N/A"
-        
-        # Pattern 5: YYYY-MM-DD (ISO format)
-        match = re.match(r'^(\d{4})[-](\d{1,2})[-](\d{1,2})$', date_str)
-        if match:
-            year, month, day = int(match[1]), int(match[2]), int(match[3])
-            is_valid, error_msg = is_valid_date(month, day, year)
-            if is_valid:
-                return f"{month:02d}/{day:02d}/{year}"
-            else:
-                print(f"Invalid date '{date_str}': {error_msg}")
-                return "N/A"
-        
-        # Try using dateutil if available (more flexible parsing)
-        try:
-            from dateutil.parser import parse
-            date_obj = parse(date_str, fuzzy=False)
-            is_valid, error_msg = is_valid_date(date_obj.month, date_obj.day, date_obj.year)
-            if is_valid:
-                return date_obj.strftime("%m/%d/%Y")
-            else:
-                print(f"Invalid date parsed by dateutil '{date_str}': {error_msg}")
-                return "N/A"
-        except:
-            pass
-            
-    except (ValueError, TypeError, IndexError) as e:
+        # Use dateutil parser to parse the date with dayfirst=True for DD-MMM-YYYY format
+        parsed_date = parse(date_str, dayfirst=True)
+        if parsed_date:
+            return parsed_date.strftime("%m/%d/%Y")
+        else:
+            return "N/A"
+    except Exception as e:
         print(f"Date parsing error for '{date_str}': {e}")
         return "N/A"
-    return "N/A"
-
 
 def extract_document_data(json_data, filename):
     try:
@@ -153,7 +37,7 @@ def extract_document_data(json_data, filename):
         }
         
         if doc_type == "paystub":
-            required_fields = ["employee_name", "employer_name", "pay_period_end_date", "pay_period_start_date", "year_to_date_earnings"]
+            # No longer using required_fields - all fields are optional
             base_data.update({
                 "employee_name": "N/A",
                 "employer_name": "N/A",
@@ -171,7 +55,7 @@ def extract_document_data(json_data, filename):
             }
             
         elif doc_type == "w2":
-            required_fields = ["employee_name", "employer_name", "year"]
+            # No longer using required_fields - all fields are optional
             base_data.update({
                 "employee_name": "N/A",
                 "employer_name": "N/A",
@@ -185,7 +69,7 @@ def extract_document_data(json_data, filename):
             }
             
         else: 
-            required_fields = ["name", "year", "beginning_tax_year", "ending_tax_year"]
+            # No longer using required_fields - all fields are optional
             base_data.update({
                 "name": "N/A",
                 "year": "N/A",
@@ -208,17 +92,9 @@ def extract_document_data(json_data, filename):
                 break
 
         if not skill_found:
-            return None, doc_type, f"Required skill '{skill_name}' not found"
+            print(f"Warning: Required skill '{skill_name}' not found in {filename}, but continuing processing")
+        
         base_data = parse_date_fields(base_data, doc_type)
-            
-        missing_fields = []
-        for field in required_fields:
-            if base_data.get(field) == "N/A" or base_data.get(field) == "":
-                missing_fields.append(field)
-        
-        if missing_fields:
-            return None, doc_type, f"Missing fields: {', '.join(missing_fields)}"
-        
         base_data["status"] = "original"
         
         return base_data, doc_type, None
@@ -226,7 +102,7 @@ def extract_document_data(json_data, filename):
         return None, None, f"Error extracting data: {e}"
 
 def parse_date_fields(base_data, doc_type):
-    """Parse all date fields in the document data"""
+    """Parse all date fields in the document data using dateutil parser"""
     try:
         date_fields = []
         
@@ -234,7 +110,6 @@ def parse_date_fields(base_data, doc_type):
             date_fields = ["pay_period_end_date", "pay_period_start_date"]
         elif doc_type == "1120":
             date_fields = ["beginning_tax_year", "ending_tax_year"]
-        # W2 typically doesn't have full date fields, mostly year only
         
         for field in date_fields:
             if field in base_data and base_data[field] != "N/A":
@@ -356,9 +231,45 @@ def process_documents(input_folder, output_folder):
                 documents[doc_type].append(data)
                 processed_files += 1
             else:
-                error_files += 1
-                error_file_list.append(os.path.basename(file_path))
-                print(f"Error in {file_path}: {error_message}")
+                # Even if there's an error in extraction, try to process what we can
+                if doc_type and data is None:
+                    # Create minimal data with available information
+                    minimal_data = {
+                        "document_type": doc_type,
+                        "filename": os.path.basename(file_path),
+                        "docId": "",
+                        "status": "original"
+                    }
+                    # Add basic fields based on document type
+                    if doc_type == "paystub":
+                        minimal_data.update({
+                            "employee_name": "N/A",
+                            "employer_name": "N/A", 
+                            "pay_period_end_date": "N/A",
+                            "pay_period_start_date": "N/A",
+                            "year_to_date_earnings": "N/A"
+                        })
+                    elif doc_type == "w2":
+                        minimal_data.update({
+                            "employee_name": "N/A",
+                            "employer_name": "N/A",
+                            "year": "N/A"
+                        })
+                    else:  # 1120
+                        minimal_data.update({
+                            "name": "N/A", 
+                            "year": "N/A",
+                            "beginning_tax_year": "N/A",
+                            "ending_tax_year": "N/A"
+                        })
+                    
+                    documents[doc_type].append(minimal_data)
+                    processed_files += 1
+                    print(f"Warning: Processed {file_path} with minimal data due to: {error_message}")
+                else:
+                    error_files += 1
+                    error_file_list.append(os.path.basename(file_path))
+                    print(f"Error in {file_path}: {error_message}")
                 
         except json.JSONDecodeError as e:
             print(f"Invalid JSON in {file_path}: {e}")
